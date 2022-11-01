@@ -1,6 +1,6 @@
 # Crispy
 
-This is the repository for the IC2E submission which introduces the Crispy resource allocation assistant.
+This is the repository for the IC2E 2022 paper which introduces the Crispy resource allocation assistant.
 
 It contains:
 
@@ -9,6 +9,6 @@ It contains:
 - The [exploratory data analysis](/EDA.ipynb) of this main dataset, which served as a motivation for our approach
 - The [local runtime data set](/crispy_local_jobs.csv) which was gathered during the profiling runs
 
-The full title of the submission is _"Get Your Memory Right: The Crispy Resource Allocation Assistant for Large-Scale Data Processing"_
+The full title of the paper is _"Get Your Memory Right: The Crispy Resource Allocation Assistant for Large-Scale Data Processing"_ [[PDF]](https://arxiv.org/pdf/2206.13852)
 
 The authors of the paper are Jonathan Will, Lauritz Thamsen, Jonathan Bader, Dominik Scheinert, and Odej Kao
